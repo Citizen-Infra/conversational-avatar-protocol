@@ -56,6 +56,8 @@ The first protocol candidates draw from these public sources:
 
 - [elizaOS Eliza research summary](docs/research/2026-08-28-elizaos-eliza.md), using the pinned source as a pattern library and threat model rather than the pilot runtime.
 - [Model Context Protocol research summary](docs/research/2026-08-28-model-context-protocol.md), using the pinned source for protocol design, capability negotiation, authorization, versioning, extensions, and conformance patterns.
+- [Team OS Toolkit and Robin research summary](docs/research/2026-08-28-team-os-toolkit.md), using the pinned source for specification, initialization-skill, implementation-choice, and acceptance-test packaging patterns around CAP.
+- [Decentralized Deliberation Stack research summary](docs/research/2026-08-28-dds.md), using the pinned source to define the adjacent deliberation-record boundary and a possible future compatibility mapping without making CAP dependent on DDS.
 - [Avatar SDK protocol note](https://github.com/harmonicabot/avatar-sdk/blob/main/docs/protocol.md), used as historical source material rather than a specification to adopt unchanged.
 
 ## License
