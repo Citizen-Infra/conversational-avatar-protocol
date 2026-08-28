@@ -1,0 +1,67 @@
+name: Protocol candidate
+description: Propose a testable interoperability mechanism for CAP
+title: "[Candidate]: "
+labels:
+  - protocol-candidate
+body:
+  - type: markdown
+    attributes:
+      value: |
+        CAP is in pre-spec incubation. Completing this form proposes a hypothesis, not an accepted protocol requirement.
+  - type: input
+    id: source
+    attributes:
+      label: Public source
+      description: Link to the public source or implementation evidence behind this candidate.
+      placeholder: https://...
+    validations:
+      required: true
+  - type: textarea
+    id: mechanism
+    attributes:
+      label: Concrete mechanism
+      description: Describe what the source implements and how it works, not only the principle it suggests.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Interoperability problem
+      description: What failure or ambiguity between an avatar runtime and a deliberation platform could this solve?
+    validations:
+      required: true
+  - type: textarea
+    id: boundary
+    attributes:
+      label: Why this belongs in CAP
+      description: Explain why this is protocol behavior rather than runtime, product, model, storage, or transport behavior.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Pilot evidence required
+      description: What must the bounded participant vertical slice demonstrate or record?
+    validations:
+      required: true
+  - type: textarea
+    id: decision
+    attributes:
+      label: Acceptance and rejection criteria
+      description: State what evidence would cause CAP to accept, revise, or reject this candidate.
+    validations:
+      required: true
+  - type: textarea
+    id: non_goals
+    attributes:
+      label: Non-goals
+      description: Name adjacent behavior this candidate must not standardize.
+    validations:
+      required: true
+  - type: textarea
+    id: safety
+    attributes:
+      label: Security and privacy implications
+      description: Identify authority, disclosure, source access, credential, replay, or leakage risks.
+    validations:
+      required: true
