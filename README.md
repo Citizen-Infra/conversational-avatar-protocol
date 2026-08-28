@@ -54,8 +54,8 @@ Consulting an avatar as a context source is distinct from inviting it as a discl
 
 The first protocol candidates draw from these public sources:
 
-- [elizaOS Eliza](https://github.com/elizaOS/eliza/tree/a06d108772c430014219b1ed32027e21b86154ac), used as a pattern library and threat model rather than the pilot runtime.
-- [Model Context Protocol](https://github.com/modelcontextprotocol/modelcontextprotocol/tree/d8fdc88fb970313247d8a180ac1ec3f6a10a8885), used for protocol design, capability negotiation, authorization, versioning, extensions, and conformance patterns.
+- [elizaOS Eliza research summary](docs/research/2026-08-28-elizaos-eliza.md), using the pinned source as a pattern library and threat model rather than the pilot runtime.
+- [Model Context Protocol research summary](docs/research/2026-08-28-model-context-protocol.md), using the pinned source for protocol design, capability negotiation, authorization, versioning, extensions, and conformance patterns.
 - [Avatar SDK protocol note](https://github.com/harmonicabot/avatar-sdk/blob/main/docs/protocol.md), used as historical source material rather than a specification to adopt unchanged.
 
 ## License
