@@ -58,6 +58,12 @@ The first protocol candidates draw from these public sources:
 - [Model Context Protocol](https://github.com/modelcontextprotocol/modelcontextprotocol/tree/d8fdc88fb970313247d8a180ac1ec3f6a10a8885), used for protocol design, capability negotiation, authorization, versioning, extensions, and conformance patterns.
 - [Avatar SDK protocol note](https://github.com/harmonicabot/avatar-sdk/blob/main/docs/protocol.md), used as historical source material rather than a specification to adopt unchanged.
 
+## License
+
+Unless a file states otherwise, specification text, schemas, conformance material, bindings, documentation, and code in this repository are licensed under the [Apache License 2.0](LICENSE). Contributions intentionally submitted for inclusion are licensed on the same terms unless explicitly marked otherwise.
+
+The license does not grant permission to use CIBC names or marks except as required to describe the origin of the work.
+
 ## Stewardship
 
 CAP is incubated by the [Citizen Infrastructure Builders Club](https://citizeninfra.org/). A contribution or open issue does not establish a CIBC position or an accepted CAP requirement.
