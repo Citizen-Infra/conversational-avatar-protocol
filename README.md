@@ -24,14 +24,7 @@ CAP is being discovered through a working community-avatar participant pilot. Is
 
 ## Incubation sequence
 
-
-env
-Research source
-    -> protocol candidate issue
-    -> evidence from a bounded participant vertical slice
-    -> steward decision: accept, revise, or reject
-    -> normative protocol text and conformance checks
-
+Research source -> protocol candidate issue -> evidence from a bounded participant vertical slice -> steward decision to accept, revise, or reject -> normative protocol text and conformance checks.
 
 The repository is a coordination and evidence surface, not a substitute for proving the protocol through use.
 
