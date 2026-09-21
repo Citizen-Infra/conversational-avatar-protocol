@@ -59,6 +59,7 @@ The first protocol candidates draw from these public sources:
 - [Team OS Toolkit and Robin research summary](docs/research/2026-08-28-team-os-toolkit.md), using the pinned source for specification, initialization-skill, implementation-choice, and acceptance-test packaging patterns around CAP.
 - [Decentralized Deliberation Stack research summary](docs/research/2026-08-28-dds.md), using the pinned source to define the adjacent deliberation-record boundary and a possible future compatibility mapping without making CAP dependent on DDS.
 - [Mirror and recursive representation research summary](docs/research/2026-09-20-sorota-mirror-and-loop.md), using an unpinnable published essay for the distinction between who authorized an avatar and what kind of representation they authorized. The summary records that the source carries no revision, and that the transfer from individually represented persons to community avatars is an argument rather than an inheritance.
+- [Orphan reasons research summary](docs/research/2026-09-21-penigaud-orphan-reasons.md), using an unpinnable published essay and its comment thread for why a representation mandate must exist, what it cannot certify, and why answerability for an avatar's contributions has to rest with the collective that conferred its mandate rather than with the avatar.
 - [Avatar SDK protocol note](https://github.com/harmonicabot/avatar-sdk/blob/main/docs/protocol.md), used as historical source material rather than a specification to adopt unchanged.
 
 ## License

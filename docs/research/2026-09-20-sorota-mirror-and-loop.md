@@ -81,7 +81,7 @@ No source shows that a derivation basis can be carried without leaking the inter
 
 A criterion of the same shape is open on the Open Facilitation Library side, at [`Open-Facilitation-Library/method-specs#28`](https://github.com/Open-Facilitation-Library/method-specs/issues/28): whether a facilitated session put in front of each participant a standpoint they did not already hold. A disclosed CAP avatar is one mechanism for satisfying it. No dependency is proposed in either direction; the two projects should know the other's framing exists.
 
-The same publication produced [Théophile Pénigaud, "Orphan Reasons: Who Is Responsible When AI Decides?"](https://informationaldemocracy.substack.com/p/orphan-reasons-who-is-responsible) (2026-09-01), which bears on the evidence envelope in #4 from the accountability side: asking a model to justify itself returns a new prediction rather than an account, so provenance must be deterministic. That essay has not been summarised in this repository.
+The same publication produced [Théophile Pénigaud, "Orphan Reasons: Who Is Responsible When AI Decides?"](https://informationaldemocracy.substack.com/p/orphan-reasons-who-is-responsible) (2026-09-01), which bears on the evidence envelope in #4 from the accountability side: asking a model to justify itself returns a new prediction rather than an account, so provenance must be deterministic. It is summarised at [`2026-09-21-penigaud-orphan-reasons.md`](2026-09-21-penigaud-orphan-reasons.md), which bears on the mandate in #1 and the evidence envelope in #4.
 
 ## Primary references
 
