@@ -28,6 +28,8 @@ Research source -> protocol candidate issue -> evidence from a bounded participa
 
 The repository is a coordination and evidence surface, not a substitute for proving the protocol through use.
 
+The current working order for the open candidates, and the dependencies between them, is in [docs/roadmap.md](docs/roadmap.md).
+
 ## Candidate issue contract
 
 Each protocol candidate should state:
