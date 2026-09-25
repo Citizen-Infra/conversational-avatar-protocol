@@ -48,6 +48,8 @@ What each candidate can and cannot learn from this pilot, in [roadmap](roadmap.m
 
 The slice passes when, among other checks, the avatar is visibly disclosed before its first substantive contribution; a current mandate and adequate host capabilities are validated before any model call; it uses only the frozen allowlist and one pinned snapshot of the record; every substantive contribution is cited or explicitly partial or abstained; record status is preserved and nothing becomes implied consensus; nothing unauthorized leaks, including whether a non-allowlisted record exists; the run stays within its turn and cost bounds and ends cleanly; and a CIBC steward judges the transcript faithful enough to allow the same bounded test again.
 
+Each criterion, and each candidate's pilot evidence, is mapped to a deterministic scenario, the live run, reviewer judgement, or a documented exclusion in [pilot-checks.md](pilot-checks.md).
+
 Passing establishes only that one policy and source set produced one reviewable, faithful participation episode.
 
 ## Open before the run

@@ -24,7 +24,7 @@ These define what must be true before any model is called. Most later candidates
 2. **[#10](https://github.com/Citizen-Infra/conversational-avatar-protocol/issues/10) One pre-retrieval chokepoint for authority and source scope.** [#4](https://github.com/Citizen-Infra/conversational-avatar-protocol/issues/4), [#13](https://github.com/Citizen-Infra/conversational-avatar-protocol/issues/13) and [#14](https://github.com/Citizen-Infra/conversational-avatar-protocol/issues/14) rely on it for leak prevention. Deterministically testable.
 3. **[#6](https://github.com/Citizen-Infra/conversational-avatar-protocol/issues/6) Host-controlled participation and deterministic silence.** Fixes who may create a turn. [#8](https://github.com/Citizen-Infra/conversational-avatar-protocol/issues/8) depends on participation staying outside model-selected tools.
 
-Start **[#7](https://github.com/Citizen-Infra/conversational-avatar-protocol/issues/7)** in this phase as a running requirement-to-check manifest, adding checks for each candidate as it is worked on. The immutable evidence bundle comes at the end.
+Start **[#7](https://github.com/Citizen-Infra/conversational-avatar-protocol/issues/7)** in this phase as a running requirement-to-check manifest, adding checks for each candidate as it is worked on. First draft: [pilot-checks.md](pilot-checks.md). The immutable evidence bundle comes at the end.
 
 ## Phase 2: Turn identity and output
 
