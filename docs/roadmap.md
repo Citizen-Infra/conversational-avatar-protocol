@@ -12,6 +12,8 @@ Before any candidate can be accepted or rejected, write down the vertical slice 
 - which deliberation platform and adapter host it;
 - which community issues its mandate, and who operates it.
 
+**Answered in [pilot.md](pilot.md):** Bucky Avatar, representing CIBC, in one private Harmonica participant thread. That document also maps what the pilot can and cannot show for each candidate.
+
 The avatar question also settles part of [#13](https://github.com/Citizen-Infra/conversational-avatar-protocol/issues/13) early (see Phase 4).
 
 ## Phase 1: Pre-generation gates
